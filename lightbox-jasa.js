@@ -28,4 +28,4 @@ function closePreview() {
     lightbox.style.display = "none";
     previewImage.src = "";
     previewVideo.src = "";
-}￼Enter
+}
